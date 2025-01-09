@@ -1,0 +1,57 @@
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Dispansary Managment System.exe
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Dispansary Managment System.deps.json
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Dispansary Managment System.runtimeconfig.json
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Dispansary Managment System.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Dispansary Managment System.pdb
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.csproj.AssemblyReference.cache
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Login.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Properties.Resources.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.csproj.GenerateResource.cache
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.AssemblyInfoInputs.cache
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.AssemblyInfo.cs
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.csproj.CoreCompileInputs.cache
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\refint\Dispansary Managment System.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.pdb
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.genruntimeconfig.cache
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\ref\Dispansary Managment System.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Admin_Pannel.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Appoinment.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Home.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Consultation.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Patient_Search_And_Register.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Diagnose_And_Deliver.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Medicine_Delivery_Prescription.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Medicine_Prescription.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Patient_Report.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Receptionist_Panel.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Stock_maintenance.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Stock_Report.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary Managment System.csproj.CopyComplete
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Delete_Consultation.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Consultation_Report.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\obj\Debug\net6.0-windows\Dispansary_Managment_System.Paayment_Details.resources
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\itextsharp.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\EPPlus.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+Y:\Dispansary Managment System\Dispansary Managment System\Dispansary Managment System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
